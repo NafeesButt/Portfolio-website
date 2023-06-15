@@ -48,7 +48,11 @@ const AboutMe = () => {
         {/* PARAGRAPH END */}
 
         {/* PARAGRAPH START */}
-        <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative"></Div>
+        <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
+          Through a deep understanding of user needs and market trends, product
+          designers strive to deliver unique solutions that enhance user
+          experiences and drive business success.
+        </Div>
         {/* PARAGRAPH END */}
 
         {/* PARAGRAPH START */}
