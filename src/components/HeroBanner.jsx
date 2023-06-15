@@ -96,7 +96,7 @@ const HeroBanner = () => {
           transition={{ duration: 0.7, delay: 0.25 }}
         >
           <div className="font-light mb-4">
-            👋 Hi, I Am <span className="font-semibold">John Doe</span>
+            👋 Hi, I Am <span className="font-semibold">Nafees Butt</span>
           </div>
           <div className="max-w-[510px]">
             I create and maintain modern websites and applications. I solve all
