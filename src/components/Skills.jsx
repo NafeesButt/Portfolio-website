@@ -78,12 +78,12 @@ const Skills = () => {
             <Service
               num="2"
               title="Graphic Designing"
-              desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+              desc="A graphic designer is a creative professional who utilizes visual elements and typography to communicate ideas and messages. They combine artistic skills with technical proficiency in design software to create visually compelling designs for various mediums such as print, digital, and branding. Graphic designers play a crucial role in visual communication and branding strategies"
               data={[
                 "Prototype",
                 "Wireframe",
-                "User Experience",
                 "Prototype",
+                "User Experience",
                 "Prototype",
               ]}
             />
