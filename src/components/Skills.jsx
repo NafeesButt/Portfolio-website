@@ -102,13 +102,14 @@ const Skills = () => {
             <Service
               num="4"
               title="Wordpress Development"
-              desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+              desc="
+              WordPress development refers to building websites and applications using the WordPress content management system (CMS). WordPress developers utilize themes, plugins, and custom code to create dynamic and customizable websites. They leverage the powerful features of WordPress to design user-friendly interfaces, manage content efficiently, and extend functionality according to specific project requirements."
               data={[
-                "Prototype",
+                "User Interface",
                 "Wireframe",
                 "User Experience",
-                "Prototype",
-                "Prototype",
+                "Responsiveness",
+                "Clean",
               ]}
             />
           </div>
