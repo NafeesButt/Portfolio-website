@@ -29,8 +29,7 @@ const Testimonials = () => {
             Client Says
           </div>
           <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
+            Reviews on my Portfolio as follows.
           </div>
         </Div>
         {/* SECTION HEADING END */}
