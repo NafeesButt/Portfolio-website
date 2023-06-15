@@ -2,7 +2,7 @@ import React from "react";
 import { motion, useTransform, useScroll } from "framer-motion";
 
 import Wrapper from "./Wrapper";
-import flag from "../assets/indian-flag.png";
+import flag from "../assets/Flag_of_Pakistan.svg.png";
 import pe1 from "../assets/sec-2-p-e-1.png";
 import pe2 from "../assets/sec-2-p-e-2.png";
 import Div from "./Div";
@@ -14,7 +14,7 @@ const AboutMe = () => {
   return (
     <div
       id="about"
-      className="w-full py-[50px] md:py-[100px] bg-white text-black relative overflow-hidden"
+      className="w-full py-[50px] md:py-[100px]  bg-white text-black relative overflow-hidden"
     >
       {/* BACKGROUND ELEMENTS START */}
       <span className="sec-2-bg-gradient" />
@@ -31,7 +31,7 @@ const AboutMe = () => {
             <img
               src={flag}
               alt=""
-              className="w-[70px] md:w-[150px] 2xl:w-[190px] block mt-1 md:mt-2"
+              className="w-[70px] shadow md:w-[150px] 2xl:w-[190px] block mt-1 md:mt-2"
             />
             <span>In Pakistan</span>
           </span>
