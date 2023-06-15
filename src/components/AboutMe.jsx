@@ -56,7 +56,15 @@ const AboutMe = () => {
         {/* PARAGRAPH END */}
 
         {/* PARAGRAPH START */}
-        <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] relative"></Div>
+        <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] relative">
+          Ultimately, the role of a product designer is to create products that
+          fulfill user needs, evoke emotional connections, and solve real-world
+          problems. Their work has a profound impact on shaping user experiences
+          and influencing consumer behavior. By combining their artistic vision,
+          technical expertise, and user-centric approach, product designers
+          contribute to the development of innovative and successful products
+          that enhance our everyday lives.
+        </Div>
         {/* PARAGRAPH END */}
       </Wrapper>
     </div>
