@@ -90,13 +90,13 @@ const Skills = () => {
             <Service
               num="3"
               title="Frontend Development"
-              desc="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+              desc="Frontend development involves creating the user-facing part of a website or application. Frontend developers use HTML, CSS, and JavaScript to build interactive and responsive interfaces. They collaborate with designers to bring designs to life, optimize performance, and ensure a seamless user experience across different devices and browsers"
               data={[
-                "Prototype",
+                "User Interface",
                 "Wireframe",
                 "User Experience",
-                "Prototype",
-                "Prototype",
+                "Responsiveness",
+                "Clean",
               ]}
             />
             <Service
