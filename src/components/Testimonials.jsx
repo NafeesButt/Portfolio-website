@@ -66,18 +66,17 @@ const Testimonials = () => {
                   src="https://i.pravatar.cc/300"
                   className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                 />
-                <div className="font-bold">John Doy</div>
+                <div className="font-bold">Mickey yan</div>
                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                   Client
                 </div>
               </div>
               <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur.
+                I couldn't be happier with the work [Your Name] did for us. They
+                brought our vision to life flawlessly and added their own
+                artistic flair. The communication was excellent, and they met
+                all deadlines. I would definitely work with [Your Name] again
+                and recommend them without hesitation.
               </div>
             </div>
             {/* SLIDE END */}
